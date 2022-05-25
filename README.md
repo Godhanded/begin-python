@@ -2,5 +2,4 @@
 
 screenshot of output
 
-![count words](https://user-images.githubusercontent.com/101066095/170370254-e1ca529d-c7f2-49b3-9da3-2f5a4d753e54.PNG)
-
+![python start](https://user-images.githubusercontent.com/101066095/170370418-221e26c4-083b-492d-b2fc-94023ecc2b53.PNG)
